@@ -5,9 +5,9 @@ Hello! Thanks for checking out my December 2023 Calender Application.
 
 In order to use the program: 
 
-1. Download BOTH the icons folder and .java file provided.
+1. Download BOTH the icons .zip and .java file provided.
 
-2. Run the main method in DecemberCalendarApp
+2. Unzip the icons folder, then run the main method in DecemberCalendarApp
 
 3. You will be prompted with the calendar and its dates! Input whatever information you'd like in the following text boxes.
 
