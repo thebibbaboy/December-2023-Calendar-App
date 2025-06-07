@@ -3,6 +3,8 @@ A program that lets you input information to a December calendar. You can then s
 
 Hello! Thanks for checking out my December 2023 Calender Application.
 
+Video Demo: https://youtu.be/m3__K0ZTNeE
+
 In order to use the program: 
 
 1. Download BOTH the icons .zip and .java file provided.
